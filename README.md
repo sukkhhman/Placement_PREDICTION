@@ -61,10 +61,10 @@ To run the app locally, follow these steps:
 4. Open the provided **localhost** link in your browser.
 
 ## Data Source
-The dataset used for training the model is available on [Kaggle Campus Placement Dataset](https://www.kaggle.com/competitions/ml-with-python-course-project/data).
+The dataset used for training the model is available on https://www.kaggle.com/code/choureymanas/placement-data-analysis
 
 ## App Link
-[Campus Placements Prediction App](#) *(Replace # with the actual deployed app link)*
+https://placementprediction-br4gsgvrfhvamttajkwmfr.streamlit.app
 
 ## Note
 - This project is intended for **educational and demonstration purposes only**.
@@ -72,7 +72,7 @@ The dataset used for training the model is available on [Kaggle Campus Placement
 - Model performance can be improved with additional data and fine-tuning.
 
 ---
-**Contributors:** Your Name *(Replace with actual names if multiple contributors)*
+**Contributors:** Sukhmandeep Singh 
 
 Feel free to contribute to this project by submitting a pull request!
 
